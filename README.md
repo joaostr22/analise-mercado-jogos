@@ -14,4 +14,3 @@ Explorei dados de vendas globais de jogos, investigando tendências por platafor
 ```bash
 git clone https://github.com/joaostr22/analise-mercado-jogos.git
 cd analise-mercado-jogos
-pip install -r requirements.txt

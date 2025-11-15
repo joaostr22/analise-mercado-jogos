@@ -1,5 +1,11 @@
 # Análise de Mercado de Jogos Digitais para Estratégias de Marketing
 
+## 🎯 Objetivo
+
+Explorar dados de vendas de jogos para identificar padrões por plataforma, gênero, região e avaliações, apoiando decisões de marketing.
+
+## 🧠 Como fiz o projeto
+
 Explorei dados de vendas globais de jogos, investigando tendências por plataforma, ano de lançamento e gênero. Analisei o impacto das avaliações de críticos e usuários nas vendas, e criei perfis regionais (NA, EU e JP) com plataformas e gêneros mais rentáveis. Realizei testes de hipóteses para avaliar diferenças entre grupos e gerei insights para orientar campanhas de marketing mais eficientes.
 
 ## 🚀 Tecnologias
